@@ -137,3 +137,5 @@ def isSameState(maton1, maton2)
   end
   true
 end
+
+start maton6
